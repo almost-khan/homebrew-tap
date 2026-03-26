@@ -3,8 +3,8 @@ class Khanote < Formula
 
   desc "Universal research workflow kit connecting vibe coding tools with Obsidian"
   homepage "https://github.com/almost-khan/khanote"
-  url "https://pypi.io/packages/source/k/khanote/khanote-0.1.0.tar.gz"
-  sha256 "852f0776c8c0820976b25ba7bf2ba6388228fbc85f64b3396658a2db56927ec4"
+  url "https://pypi.io/packages/source/k/khanote/khanote-0.2.0.tar.gz"
+  sha256 "d6e510e0d052cd4b527b52e1fab73e71071da83e2390a5ad8313ca662cb05039"
   license "MIT"
 
   depends_on "python@3.12"
